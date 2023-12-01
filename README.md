@@ -5,6 +5,7 @@
 
 - email: kimwy1997@gmail.com
 - github: https://github.com/w00ing
+- twitter: https://x.com/wooing0306
 
 ## 업무 경험
 
