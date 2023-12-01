@@ -18,7 +18,7 @@
 
 > 상업용 부동산 솔루션
 
-**빌디 팀 Software Engineer**
+**Software Engineer(빌디팀)**
 
 **Main Role**: 건물 매입/매각 서비스 [빌디](https://apps.apple.com/us/app/1661751620) 앱(React Native) 및 내부 어드민(Remix) 개발
 
