@@ -32,14 +32,19 @@
 
 - 개발중인 피그마 화면에서 일일이 svg를 다운받아 사용하고 있던 불편함을 해소하기 위해, 피그마 파일에 있는 svg를 React와 React Native에서 쉽게 사용할 수 있는 라이브러리를 제작했습니다.
 
-### [페어리] (https://thevc.kr/pairy)(2021.06 ~ 2021.12) (6개월)
+### [페어리](https://thevc.kr/pairy)(2021.06 ~ 2021.12) (6개월)
+
+> 미국 대학 입시 도우미 서비스 (\*2022년 피칭 및 서비스 변경)
 
 Software Engineer
+
 Main Role: 미국 대학 입시 도우미 서비스 [Ussist] 앱(React Native) 개발
 
 - Ussist 앱의 인프라부터 앱 개발 및 릴리즈, 모니터링 시스템 구축까지의 전 과정을 도맡아 개발했습니다.
 
 ### [아씨](https://www.zillinks.com/company/BUqc466v5i/) (2021.03 ~ 2021.06) (인턴, 3개월)
+
+> 독서 기록 및 공유 플랫폼 [리더스] 운영
 
 Software Engineer(인턴)
 
